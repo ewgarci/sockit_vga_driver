@@ -12,7 +12,7 @@ Command to make Kernel Module.
 
 make ARCH=arm CROSS_COMPILE=~/gcc-linaro-arm-linux-gnueabihf-4.7-2012.11-20121123_linux/bin/arm-linux-gnueabihf-
 
-Cross Compiled main.c with  
+Separately cross compiled main.c with  
 
 ~/gcc-linaro-arm-linux-gnueabihf-4.7-2012.11-20121123_linux/bin/arm-linux-gnueabihf-gcc
 
